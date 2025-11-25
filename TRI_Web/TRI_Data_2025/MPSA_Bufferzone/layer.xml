@@ -1,0 +1,17 @@
+<layer>
+  <name>MPSA_Bufferzone</name>
+  <id>LayerInfoImpl--5ea319f7:19ab3bcbd17:-7ff3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5ea319f7:19ab3bcbd17:-7ff1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5ea319f7:19ab3bcbd17:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 02:50:04.775 UTC</dateCreated>
+  <dateModified>2025-11-24 02:50:47.3 UTC</dateModified>
+</layer>

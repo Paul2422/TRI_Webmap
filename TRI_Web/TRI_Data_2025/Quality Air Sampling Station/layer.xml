@@ -1,0 +1,16 @@
+<layer>
+  <name>Quality Air Sampling Station</name>
+  <id>LayerInfoImpl--33759b3b:19ab4807d79:-68f5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--33759b3b:19ab4807d79:-68f6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 07:56:14.808 UTC</dateCreated>
+</layer>

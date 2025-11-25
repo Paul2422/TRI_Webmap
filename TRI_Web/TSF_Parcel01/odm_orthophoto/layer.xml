@@ -1,0 +1,16 @@
+<layer>
+  <name>odm_orthophoto</name>
+  <id>LayerInfoImpl--33759b3b:19ab4807d79:-68c0</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--33759b3b:19ab4807d79:-68c1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 08:13:38.914 UTC</dateCreated>
+</layer>

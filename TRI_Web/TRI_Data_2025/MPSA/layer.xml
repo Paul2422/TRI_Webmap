@@ -1,0 +1,17 @@
+<layer>
+  <name>MPSA</name>
+  <id>LayerInfoImpl--5ea319f7:19ab3bcbd17:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-494e358d:19ab3872250:-7ff7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5ea319f7:19ab3bcbd17:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 02:43:28.406 UTC</dateCreated>
+  <dateModified>2025-11-24 07:07:38.978 UTC</dateModified>
+</layer>
